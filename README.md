@@ -1,4 +1,4 @@
-# Deep Learning CheXpert
-cs230 stanford course project codes and results: Chest x-ray diagnosis with deep-learning CNN over CheXpert data.
-Keras is used for deep learning models.
+# Chest x-ray diagnosis with deep-learning CNN over CheXpert data.
+cs230 stanford course project codes and results.
+All models are codes in Python and Keras.
  
