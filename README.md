@@ -4,6 +4,5 @@ All models are codes in Python and Keras.
  
 
 
-![Correlation_Matrix](https://github.com/hborhan/DL-CNN-CheXpert-data/blob/master/image_CAM/Correlation.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/hborhan/DL-CNN-CheXpert-data/blob/master/image_CAM/Correlation.png)
 
