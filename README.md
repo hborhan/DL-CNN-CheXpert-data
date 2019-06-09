@@ -15,7 +15,8 @@ is applied to balance the training data. This results in a significant improveme
 in both accuracy and F1 scores over the testset data. Finally, a gradient weighted
 Class Activation Map is applied to localize the highest probability observation for
 a given x-ray image input.
-To access CheXpert chest x-ray data chech: https://stanfordmlgroup.github.io/competitions/chexpert/
+
+To access CheXpert chest x-ray data check: https://stanfordmlgroup.github.io/competitions/chexpert/
 Data includes about 200,000 images labeled for 14 observations.
 
 A schematic view of the model is shown below.
@@ -30,8 +31,10 @@ Summary of the uploaded codes. All jupyter notebooks have comments to follow.
 - [CS230_Report_hborhan.pdf] The report file
 
 I found the following references very udeful:
+
 [1] https://medium.com/@vijayabhaskar96/multi-label-image-classification-tutorial-with-keras-imagedatagenerator-cd541f8eaf24
     Multi-label image classification Tutorial with Keras ImageDataGenerator - very helpful to learn how to read images from csv files with location address. Just be careful with backslash in the file address if you are using windows (add .r before address in the code).
+    
 [2] https://towardsdatascience.com/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5
     Setup and use Jupyter (IPython) Notebooks on AWS. I recommend to use chrome in the last step to open the notebook.
     
