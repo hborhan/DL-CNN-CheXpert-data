@@ -16,5 +16,5 @@ in both accuracy and F1 scores over the testset data. Finally, a gradient weight
 Class Activation Map is applied to localize the highest probability observation for
 a given x-ray image input.
  
-![Model](/DL-CNN-CheXpert-data/images/Model_Schematic1.JPG)
+![Model](https://github.com/hborhan/DL-CNN-CheXpert-data/blob/master/images/Model_Schematic1.JPG)
 
