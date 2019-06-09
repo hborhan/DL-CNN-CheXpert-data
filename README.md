@@ -21,7 +21,7 @@ Data includes about 200,000 images labeled for 14 observations.
 
 A schematic view of the model is shown below.
  
-![Model](https://github.com/hborhan/DL-CNN-CheXpert-data/blob/master/images/Model_Schematic1.JPG)
+![Model](https://github.com/hborhan/DL-CNN-CheXpert-data/blob/master/images/Model_SchematicR.PNG)
 
 Summary of the uploaded codes. All jupyter notebooks have comments to follow.
 - [Model_CheXpert_DenseNet121_R1_TransferLearning.ipynb] Training DenseNet-121 model with transfer learning approach.
