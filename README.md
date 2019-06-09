@@ -1,6 +1,6 @@
 # Chest x-ray diagnosis with deep-learning CNN over CheXpert data.
 cs230 stanford course project codes and results.
-All models are codes in Python and Keras.
+All models are coded in Python using Keras.
 
 In this study, predictive multi-class models are trained for chest x-ray diagnosis
 of 14 observations using different deep learning architectures and a large dataset
@@ -16,5 +16,5 @@ in both accuracy and F1 scores over the testset data. Finally, a gradient weight
 Class Activation Map is applied to localize the highest probability observation for
 a given x-ray image input.
  
-![Model](DL-CNN-CheXpert-data/images/Model_Schematic1.JPG)
+![Model](/DL-CNN-CheXpert-data/images/Model_Schematic1.JPG)
 
